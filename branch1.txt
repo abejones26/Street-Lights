@@ -1,8 +1,0 @@
-
-1. Clean and format dataset [pandas]
-2. Describe data exploration and cleanup [Jupyter Notebook]
-3. Final data analysis [Jupyter Notebook]
-4. Create 6-8 visualizations [Matplotlib]
-5. PNG images to presentation
-6. Optional - use at least one API
-7. Write up summary of major findings
