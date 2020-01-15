@@ -32,7 +32,12 @@ https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Commu
 ### Population Data by Community Area:
 http://www.actforchildren.org/wp-content/uploads/2018/01/Census-Data-by-Chicago-Community-Area-2017.pdf
 
-## Installations:
+## Installation
+
+Use the package managers [conda](https://docs.conda.io/en/latest/) and [pip](https://pip.pypa.io/en/stable/) to install following dependencies.
+
+```bash
 conda install -c conda-forge descartes
 conda install geopandas
 pip install shapely
+```
