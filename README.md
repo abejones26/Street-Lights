@@ -11,10 +11,10 @@ Present data of 311 reports on street light outages in Chicago and find trends b
 
 
 ## Question(s)
-a) Which Chicago neighborhoods have the most street light outages reported? 
-b) What address has the most street light outage reports? Which year had the most street light outage reports?
-c) Average time it takes for outages to get fixed per neighborhood?
-d) What are the crime rates/reports in neighborhoods with street light outages?
+1. Which Chicago neighborhoods have the most street light outages reported? 
+2. What address has the most street light outage reports? Which year had the most street light outage reports?
+3. Average time it takes for outages to get fixed per neighborhood?
+4. What are the crime rates/reports in neighborhoods with street light outages?
 
 ## Data Set Resources
 
