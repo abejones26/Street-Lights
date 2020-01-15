@@ -21,7 +21,7 @@ highest street light outage reports.
 * 2015 - 13500 S INDIANA AVE, CHICAGO IL 60628 with 9
 * 2016 - 1000 N LAKE SHORE DR, CHICAGO IL 60611 with 6
 * 2017 - 3200 W AUGUSTA BLVD, CHICAGO IL 60651 with 7
-* 2018 - 3547 N ALBANY AVE, CHICAGO IL 60618 with  9 
+* 2018 - 3547 N ALBANY AVE, CHICAGO IL 60618 with  9
 
 
 ### 3) Average time it takes for outages to get fixed per neighborhood?
