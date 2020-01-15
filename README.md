@@ -1,4 +1,4 @@
-# Project 1 - Street Light Outages and Crime Analysis
+# Project 1 - Street Light Outages & Crime Analysis
 
 ## Description
 Present data of 311 reports on street light outages in Chicago and find trends by neighborhood - average fix time, crime in the area, and frequent outage reports to the same address.
