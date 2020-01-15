@@ -20,7 +20,8 @@ d) What are the crime rates/reports in neighborhoods with street light outages?
 
 ## Data Set Resources:
 
-### 311 Service Requests - Street Lights - All Out - No Duplicates https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Street-Lights-All-Out-No-Dupl/756k-itxx
+### 311 Service Requests - Street Lights - All Out - No Duplicates 
+https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Street-Lights-All-Out-No-Dupl/756k-itxx
 
 ### Crimes - 2001 to present 
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
