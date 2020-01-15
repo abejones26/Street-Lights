@@ -23,7 +23,6 @@ highest street light outage reports.
 * 2017 - 3200 W AUGUSTA BLVD, CHICAGO IL 60651 with 7
 * 2018 - 3547 N ALBANY AVE, CHICAGO IL 60618 with  9
 
-
 ### 3) Average time it takes for outages to get fixed per neighborhood?
 
 * 2014 - HIGHEST Oakland (8.14 days), LOWEST Lower West Side (2.70 days)
