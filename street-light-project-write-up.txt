@@ -32,7 +32,7 @@ They had 104 311 request for Street Lights - All/Out.
 2017 - HIGHEST Oakland(9.73 days), LOWEST Bridgeport(1.98 days)
 2018 - HIGHEST O’hare(51.18 days), LOWEST Armour Square(2.16 days)
 
-Longest time to fix outages. - Near West Side - 497 days
+Longest time to fix outages. - Near West Side - 625 days
 
 4) What are the crime rates/reports in neighborhoods with street light outages?
 
