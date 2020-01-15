@@ -27,3 +27,11 @@ https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 ### Boundaries - Community Areas (current)
 https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6
+
+### Population Data by Community Area:
+http://www.actforchildren.org/wp-content/uploads/2018/01/Census-Data-by-Chicago-Community-Area-2017.pdf
+
+## Installations:
+conda install -c conda-forge descartes
+conda install geopandas
+pip install shapely
