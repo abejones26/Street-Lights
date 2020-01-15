@@ -1,24 +1,27 @@
+
+Description
+Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+
+
 # Project 1 - Street Light Outages and Crime Analysis
 
-## Project Proposal Submission Date: 
-12-21-19
+## Description
+Present data of 311 reports on street light outages in Chicago and find trends by neighborhood - average fix time, crime in the area, and frequent outage reports to the same address.
 
-## Project Team:
+## Authors
 Tanisha Blakely
 Alap Raval
 Dharti Patel
 Abraham Jones
 
-## Project Overview:
-Present data of 311 reports on street light outages in Chicago and find trends by neighborhood - average fix time, crime in the area, and frequent outage reports to the same address.
 
-## Question(s):
+## Question(s)
 a) Which Chicago neighborhoods have the most street light outages reported? 
 b) What address has the most street light outage reports? Which year had the most street light outage reports?
 c) Average time it takes for outages to get fixed per neighborhood?
 d) What are the crime rates/reports in neighborhoods with street light outages?
 
-## Data Set Resources:
+## Data Set Resources
 
 ### 311 Service Requests - Street Lights - All Out - No Duplicates 
 https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Street-Lights-All-Out-No-Dupl/756k-itxx
